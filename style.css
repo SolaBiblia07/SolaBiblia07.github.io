@@ -1,0 +1,52 @@
+.hovedside {
+    position: absolute;
+    background-color: rgb(255, 187, 41);
+    width: 1230px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+}
+
+h1 {
+    position: absolute;
+    left: 10px;
+    top: 0px;
+}
+
+.koblinger {
+    position: absolute;
+    background-color: rgb(185, 93, 0);
+    width: 1230px;
+    height: 25px;
+    left: 0px;
+    top: 65px;
+}
+
+.hjem {
+    position: absolute;
+    left: 15px;
+    top: 48px;
+}
+.Om {
+    position: absolute;
+    left: 100px;
+    top: 48px;
+}
+.Helse {
+    position: absolute;
+    left: 250px;
+    top: 48px;
+}
+.Oppskrift {
+    position: absolute;
+    left: 400px;
+    top: 48px;
+}
+
+.img1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100px;
+    height: 100px;
+}
