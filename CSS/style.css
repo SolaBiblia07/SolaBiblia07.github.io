@@ -1,0 +1,152 @@
+.hovedside {
+    position: absolute;
+    background-color: rgb(216, 157, 30);
+    width: 1230px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+.koblinger {
+    position: absolute;
+    background-color: rgb(185, 93, 0);
+    width: 1230px;
+    height: 25px;
+    left: 0px;
+    top: 65px;
+}
+.hjem {
+    position: absolute;
+    left: 15px;
+    top: 48px;
+}
+.Om {
+    position: absolute;
+    left: 100px;
+    top: 48px;
+}
+.Helse {
+    position: absolute;
+    left: 250px;
+    top: 48px;
+}
+.Oppskrift {
+    position: absolute;
+    left: 400px;
+    top: 48px;
+}
+.img1 {
+    position: absolute;
+    left: 380px;
+    top: 250px;
+    width: 500px;
+    height: 300px;
+}
+.Tittel {
+    position: absolute;
+    left: 450px;
+    top: 125px;
+}
+.Retten {
+    position: relative;
+    left: 100px;
+    top: 125px;
+}
+.Stek {
+    position: absolute;
+    left: 100px;
+    top: 250px;
+    width: 300px;
+    height: 200px;
+}
+.Krydder {
+    position: absolute;
+    left: 100px;
+    top: 520px;
+    width: 250px;
+    height: 200px;
+}
+.Ferdig {
+    position: absolute;
+    left: 100px;
+    top: 900px;
+    width: 250px;
+    height: 250px;
+}
+.Tekst {
+    position: relative;
+    top: 375px;
+    left: 100px;
+}
+.Tekst2 {
+    position: relative;
+    top: 600px;
+    left: 100px;
+}
+.Tekst3 {
+    position: relative;
+    top: 650px;
+    left: 100px;
+}
+.Tekst4 {
+    position: relative;
+    top: 700px;
+    left: 100px;
+}
+.Ferdigrett {
+    position: relative;
+    top: 850px;
+    left: 300px;
+}
+.redbox {
+    position: absolute;
+    background-color: rgb(255, 86, 78);
+    width: 385px;
+    height: 410px;
+    left: 820px;
+    top: 200px;
+}
+.Ingredienser {
+    position: absolute;
+    width: 225px;
+    height: 400px;
+    left: 950px;
+    top: 200px;
+}
+.List {
+    position: absolute;
+    left: 830px;
+    top: 230px;
+}
+.Sunt {
+    position: relative;
+    width: 450px;
+    height: 275px;
+    left: 375px;
+    top: 50px;
+}
+.Helseinfo {
+    position: relative;
+    left: 0px;
+    top: 400px;
+}
+.Ominfo {
+    position: relative;
+    left: 340px;
+    top: 65px;
+}
+.Næringsboks {
+    position: relative;
+    background-color: red;
+    width: 300px;
+    height: 500px;
+    top: 425px;
+    left: 20px;
+    z-index: -1;
+}
+.Næringsinnhold_tittel {
+    position: absolute;
+    top: 500px;
+    left: 450px;
+    margin: 100px;
+}
+
